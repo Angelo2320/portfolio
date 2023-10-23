@@ -1,0 +1,101 @@
+body{
+    background-image: url('https://img.freepik.com/premium-vector/blurred-background-green-blue-color_1159-761.jpg');
+    background-size: cover;
+    margin: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style: solid;
+}
+
+.img-letter{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    text-align: right;
+    position: absolute;
+}
+
+.number-one{
+    font-size: x-large;
+    margin-left: 75%;
+}
+nav a{
+    border: 3px solid #000;
+}
+
+.h-one{
+    margin-top: 70px;
+    margin-left: 75%;
+}
+
+.container{
+    margin: 50px;
+    border-style: solid;
+    position: flex;
+}
+
+.h-two{
+    margin-left: 15px;
+}
+h2{
+    margin-left: 15px;
+}
+
+.p-one{
+    font-size: large;
+    margin-left: 15px;
+}
+
+.number-two{
+    font-size: x-large;
+    margin-right: 85%;
+}
+
+.img-angelo{
+    border: 3px solid#000;
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 75%;
+    width: 150px;
+    height: 150px;
+}
+
+.h-three{
+    margin-left: 50px;
+}
+.container-two{
+    margin-left: 20px;
+    position: flex;
+}
+.img{
+    margin-left: 130px;
+    border: 3px solid #000;
+}
+.container-three{
+    margin: 50px;
+    margin-top: 50px;
+}
+.p-two{
+    text-align: justify;
+    font-size: larger;
+}
+.h-four{
+    margin-left: 50px;
+}
+.img-email-fb{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;   
+}
+
+.container-four{
+    margin: 50px;
+    margin-top: 50px;
+    position: flex;
+}
+.copy{
+    text-align: center;
+}
